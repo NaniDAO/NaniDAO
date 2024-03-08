@@ -10,19 +10,19 @@
 
 ### II. NAME, PURPOSES AND STRUCTURE OF THE DAO
 
-(a) The name of the DAO is "Nani DAO” as set forth in the transaction recorded on the Designated Blockchain as deployed in the formation signature under the smart contract located at: *0xDa000000000000d2885F108500803dfBAaB2f2aA*
+(a) Official Name and Blockchain Authentication: The DAO is officially named "Nani DAO," a designation verifiably recorded on the Designated Blockchain. This name is authenticated by the associated transactions of the smart contract at the Designated Blockchain address *0xDa000000000000d2885F108500803dfBAaB2f2aA*. This authentication process involves the onchain signing of this Charter and amendments through the aforementioned smart contract address, underscoring the DAO's commitment to utilizing blockchain technology for enhanced transparency, security, and trust in its operations. Members and the public are encouraged to verify the DAO's foundational documents and transactions directly on the blockchain, ensuring an open and accountable governance framework.
 
 (b) Nani DAO is organized and operated for charitable purposes. More specifically, Nani DAO is dedicated to developing, deploying and governing blockchain primitives for smart contract account and artificial intelligence applications, as well as advancing human rights and freedoms for all.
 
 (c) Nani DAO is a “decentralized autonomous organization”—*i.e.*, a smart contract-based unincorporated association of individuals, entities, associations and/or other persons or groups of persons, which defers certain aspects of the governance, structure, operations, and other capabilities to the consensus mechanisms, computations, and data storage and transactions of such smart contract’s code and underlying permission-less blockchain.
 
-(d) Nani DAO Members shall utilize the Designated Smart Contracts (as such term is defined in Section 6 of this Charter) as the exclusive method of holding, allocating among the DAO Members, and spending or otherwise distributing, any Token’s that are DAO Property, and of minting and issuing DAO Membership Token’s. The DAO Members shall utilize the Voting Application and applicable Designated Smart Contracts to hold and record votes of the DAO Members. Nani DAO may also utilize the Designated Smart Contracts and Voting Application to administer and facilitate certain other arrangements and transactions involving the DAO, the DAO Members and/or third parties.
+(d) Nani DAO Members shall utilize the Designated Smart Contracts (as such term is defined in Section 6 of this Charter) as the exclusive method of holding, allocating among the DAO Members, and spending or otherwise distributing, any Tokens that are DAO Property, and of minting and issuing DAO Membership Tokens. The DAO Members shall utilize the Voting Application and applicable Designated Smart Contracts to hold and record votes of the DAO Members. Nani DAO may also utilize the Designated Smart Contracts and Voting Application to administer and facilitate certain other arrangements and transactions involving the DAO, the DAO Members and/or third parties.
 
 ### III. DAO MEMBERSHIP
 
 (a) Each Membership shall record the public key of the externally owned account with respect to which the DAO Member may exercise its rights as a DAO Member through the Designated Smart Contracts and the number of DAO Membership Tokens issued to and held by such DAO Member and may also record any other relevant information regarding a DAO Member, as determined by the available public state within the Designated Smart Contracts.
 
-(b) Membership rights in the DAO shall be represented by an externally owned account address’s control of Tokens (the “***DAO Membership Tokens***”; each controller of an externally owned account controlling such a DAO Membership Token, a “***DAO Member***”). Eligibility Membership, as defined in the DUNA Act or Wyo. Stat. Title 17, Ch. 22, as applicable under this agreement, shall be voluntary and application open to any individual of at least 18 years of age whose purpose or presumed intent is to contribute, to build, and to use the services of Nani DAO and is willing to accept the responsibilities and terms of membership including the terms of this Charter.
+(b) Membership rights in the DAO shall be represented by an externally owned account address’s control of Tokens (the “***DAO Membership Tokens***”; each controller of an externally owned account controlling such a DAO Membership Token, a “***DAO Member***”). Eligibility for Membership, as defined in the DUNA Act or Wyo. Stat. Title 17, Ch. 22, as applicable, shall be voluntary, and application open to any individual of at least 18 years of age whose purpose or presumed intent is to contribute, to build, and to use the services of Nani DAO and is willing to accept the responsibilities and terms of membership including the terms of this Charter.
 
 (c) DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contracts as further set forth in Section 4 which are in accordance with this Charter. The rights, powers and privileges of DAO Members are referred to herein as the “***DAO Membership Rights***”.
 
@@ -134,9 +134,9 @@ Each DAO Member (as the “***Representing DAO Member***”) hereby represents a
 
 (q) “**Token**” means a digital unit recognized by the Designated Client on the Designated Blockchain Network as capable of being uniquely associated with or “owned” by a particular public-key address on the Designated Blockchain Network at each particular block height.
 
-(r) “**Voting Application**” means the DAO’s voting application accessible at *nani.ooo* and any relevant subdomains, which is intended to be usable only by DAO Members as evidenced by an externally owned account address with a positive nonzero balance of DAO Membership Token’s.
+(r) “**Voting Application**” means the DAO’s voting application accessible at *nani.ooo* and any relevant subdomains, which is intended to be usable only by DAO Members as evidenced by an externally owned account address with a positive nonzero balance of DAO Membership Tokens.
 
-### VI. Indemnification and other Fiscal Matters
+### VII. Indemnification and other Fiscal Matters
 
 (a) *Indemnification.* The DAO shall indemnify its directors, officers, DAO Members, contractors, contributors, advisors or agents or other persons acting in accordance with the governance processes of the DAO, as required under Wyoming law, and may indemnify such persons as permitted under Wyoming law. Indemnification payments shall be made on a priority basis.
 
@@ -144,13 +144,17 @@ Each DAO Member (as the “***Representing DAO Member***”) hereby represents a
 
 (c) *Fiscal Year.* The fiscal year of the DAO shall be the calendar year beginning January 1st and Ending December 31st.
 
-### VIII. Miscellaneous
+### VIII. Transition to DUNA Compliance
+
+Upon the DUNA Act coming into effect on July 1, 2024, Nani DAO commits to transitioning its governance, operations, and legal structure to align with the DUNA Act requirements, if not otherwise met. This transition aims to ensure continuity, compliance, and the preservation of Nani DAO’s status as a decentralized autonomous organization and limited liability entity.
+
+### IX. Miscellaneous
 
 (a) *Amendments.* Any provision of this Charter may be amended, waived or modified only upon a majority vote in favor of such amendment, waiver or modification by the DAO Members through the applicable Designated Smart Contract(s) or the Voting Application, as applicable according to the content of such amendment, waiver or modification.
 
 (b) *Severability.* In the event any one or more of the provisions of this Charter is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Charter operate or would prospectively operate to invalidate this Charter, then and in any such event, such provisions only will be deemed null and void and will not affect any other provision of this Charter and the remaining provisions of this Charter will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
 
-(c) *Construction.* This Charter constitutes the entire agreement among the DAO Members with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, among the DAO Members with respect to the subject matter hereof. Except as to matters reserved to DAO Members by law or by this Charter, all DAO powers shall be exercised by or under the authority of DAO Members or such agents or designees approved by DAO Members through Designated Smart Contract voting or the Voting Application or other applicable governance process enabled by the Designated Smart Contracts, Voting Application or DAO Membership Token’s, as applicable.
+(c) *Construction.* This Charter constitutes the entire agreement among the DAO Members with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, among the DAO Members with respect to the subject matter hereof. Except as to matters reserved to DAO Members by law or by this Charter, all DAO powers shall be exercised by or under the authority of DAO Members or such agents or designees approved by DAO Members through Designated Smart Contract voting or the Voting Application or other applicable governance process enabled by the Designated Smart Contracts, Voting Application or DAO Membership Tokens, as applicable.
 
 (d) *Disputes; Mandatory Arbitration.* Any Legal Proceeding, Claim or other dispute or controversy arising out of or relating to this Charter, its enforcement, or the breach thereof shall be finally resolved by binding arbitration administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures or pursuant to JAMS' Streamlined Arbitration Rules and Procedures; *provided, however*, that any DAO Member may seek injunctive relief in aid of arbitration in order to prevent irreparable harm or preserve the status quo. EACH DAO MEMBER HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM WHETHER BASED ON CONTRACT, TORT OR OTHERWISE ARISING OUT OF OR RELATING TO THIS CHARTER, THE DESIGNATED SMART CONTRACTS, THE VOTING APPLICATION, THE DAO MATTERS OR THE ACTIONS OF THE DAO MEMBERS IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE AND ENFORCEMENT OF THIS CHARTER.
 
