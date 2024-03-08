@@ -1,28 +1,28 @@
-# JUSTICEDAO CHARTER
+# NANIDAO CHARTER
 
 ### I. NATURE OF DAO CHARTER
 
-(a) This charter (this “Charter”) is the official legal charter of Justice DAO. This Charter is intended to be a legal agreement & contract binding upon all DAO Members and the other DAO Participants, as they may join and exit the DAO from time to time, as each such term is defined herein, and is enforceable in accordance with its terms under the laws of Wyoming. Certain capitalized terms used in this Charter are defined in Section 6.
+(a) This charter (this “Charter”) is the official legal charter of Nani DAO. This Charter is intended to be a legal agreement & contract binding upon all DAO Members and the other DAO Participants, as they may join and exit the DAO from time to time, as each such term is defined herein, and is enforceable in accordance with its terms under the laws of Wyoming. Certain capitalized terms used in this Charter are defined in Section 6.
 
-(b) If you have received a DAO Membership Token (as the term ‘DAO Membership Token’ is more particularly defined in Section III(b) herein) as a result of your interactions with one or more Designated Smart Contracts, or are otherwise a member of Justice DAO, you consent to & agree to become legally bound by this Charter as both a DAO Participant and more specifically a “DAO Member” as such term is defined in this Charter.
+(b) If you have received a DAO Membership Token (as the term ‘DAO Membership Token’ is more particularly defined in Section III(b) herein) as a result of your interactions with one or more Designated Smart Contracts, or are otherwise a member of Nani DAO, you consent to & agree to become legally bound by this Charter as both a DAO Participant and more specifically a “DAO Member” as such term is defined in this Charter.
 
-(c) Justice DAO (the “DAO”) is an unincorporated nonprofit association under Wyo. Stat. Title 17, Ch. 22 of the laws of the State of Wyoming. Justice DAO is not intended to be, and shall not be deemed to be, a partnership.
+(c) Nani DAO (the “DAO”) is a decentralized unincorporated nonprofit association ("DUNA") under the Wyoming Decentralized Unincorporated Nonprofit Association Act, SF50 (the "DUNA Act"), as effective and as amended from time to time, and until such time as the DUNA Act shall become effective on July, 1, 2024, the DAO is an unincorporated nonprofit association under Wyo. Stat. Title 17, Ch. 22. Nani DAO is not intended to be, and shall not be deemed to be, a partnership.
 
 ### II. NAME, PURPOSES AND STRUCTURE OF THE DAO
 
-(a) The name of the DAO is “Justice DAO” as set forth in the transaction recorded on the Designated Blockchain as deployed in the formation signature under the smart contract located at: 0xafd091b2d30c6ea6c1f1e0462672a5a26bf6e3c6
+(a) The name of the DAO is "Nani DAO” as set forth in the transaction recorded on the Designated Blockchain as deployed in the formation signature under the smart contract located at: *0xDa000000000000d2885F108500803dfBAaB2f2aA*
 
-(b) Justice DAO is organized and operated for charitable purposes. More specifically, Justice DAO is dedicated to defending and providing support to peaceful protesters, the wrongfully imprisoned, the politically persecuted and their families, as well as advancing human rights and freedoms for all.
+(b) Nani DAO is organized and operated for charitable purposes. More specifically, Nani DAO is dedicated to developing, deploying and governing blockchain primitives for smart contract account and artificial intelligence applications, as well as advancing human rights and freedoms for all.
 
-(c) Justice DAO is a “decentralized autonomous organization”—i.e., a smart contract-based unincorporated association of individuals, entities, associations and/or other persons or groups of persons, which defers certain aspects of the governance, structure, operations, and other capabilities to the consensus mechanisms, computations, and data storage and transactions of such smart contract’s code and underlying permission-less blockchain.
+(c) Nani DAO is a “decentralized autonomous organization”—*i.e.*, a smart contract-based unincorporated association of individuals, entities, associations and/or other persons or groups of persons, which defers certain aspects of the governance, structure, operations, and other capabilities to the consensus mechanisms, computations, and data storage and transactions of such smart contract’s code and underlying permission-less blockchain.
 
-(d) Justice DAO Members shall utilize the Designated Smart Contracts (as such term is defined in Section 6 of this Charter) as the exclusive method of holding, allocating among the DAO Members, and spending or otherwise distributing, any Token’s that are DAO Property, and of minting and issuing DAO Membership Token’s. The DAO Members shall utilize the Voting Application and applicable Designated Smart Contracts to hold and record votes of the DAO Members. Justice DAO may also utilize the Designated Smart Contracts and Voting Application to administer and facilitate certain other arrangements and transactions involving the DAO, the DAO Members and/or third parties.
+(d) Nani DAO Members shall utilize the Designated Smart Contracts (as such term is defined in Section 6 of this Charter) as the exclusive method of holding, allocating among the DAO Members, and spending or otherwise distributing, any Token’s that are DAO Property, and of minting and issuing DAO Membership Token’s. The DAO Members shall utilize the Voting Application and applicable Designated Smart Contracts to hold and record votes of the DAO Members. Nani DAO may also utilize the Designated Smart Contracts and Voting Application to administer and facilitate certain other arrangements and transactions involving the DAO, the DAO Members and/or third parties.
 
 ### III. DAO MEMBERSHIP
 
 (a) Each Membership shall record the public key of the externally owned account with respect to which the DAO Member may exercise its rights as a DAO Member through the Designated Smart Contracts and the number of DAO Membership Tokens issued to and held by such DAO Member and may also record any other relevant information regarding a DAO Member, as determined by the available public state within the Designated Smart Contracts.
 
-(b) Membership rights in the DAO shall be represented by an externally owned account address’s control of Tokens (the “***DAO Membership Tokens***”; each controller of an externally owned account controlling such a DAO Membership Token, a “***DAO Member***”). Eligibility Membership, as defined in Wyo. Stat. Title 17, Ch. 22, shall be voluntary and application open to any individual of at least 18 years of age whose purpose or presumed intent is to contribute, to build, and to use the services of Justice DAO and is willing to accept the responsibilities and terms of membership including the terms of this Charter.
+(b) Membership rights in the DAO shall be represented by an externally owned account address’s control of Tokens (the “***DAO Membership Tokens***”; each controller of an externally owned account controlling such a DAO Membership Token, a “***DAO Member***”). Eligibility Membership, as defined in the DUNA Act or Wyo. Stat. Title 17, Ch. 22, as applicable under this agreement, shall be voluntary and application open to any individual of at least 18 years of age whose purpose or presumed intent is to contribute, to build, and to use the services of Nani DAO and is willing to accept the responsibilities and terms of membership including the terms of this Charter.
 
 (c) DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contracts as further set forth in Section 4 which are in accordance with this Charter. The rights, powers and privileges of DAO Members are referred to herein as the “***DAO Membership Rights***”.
 
@@ -87,6 +87,7 @@ Each DAO Member (as the “***Representing DAO Member***”) hereby represents a
 (b) *Reliance on Own Due Diligence; Informed Consent.*
 
 (i) The Representing DAO Member has received and carefully reviewed a copy of this Charter and all source code for the Designated Smart Contracts sufficiently in advance of becoming a DAO Member to make an informed decision regarding becoming a DAO Member. The Representing DAO Member has been given a full and fair opportunity to: (A) to ask questions of, and to receive answers from, the other DAO Members regarding the subject matter of this Charter and Designated Smart Contracts (B) to obtain any additional information that is necessary to evaluate this Charter and the matters contemplated thereby.
+
 (ii) Other than the representations and warranties of the other DAO Members expressly set forth in this Section 5, the Representing DAO Member has not relied on any statement, information, representation, or warranty including oral statements, due diligence presentations, etc., or any omission of any statement, information, representation or warranty, made by or on behalf of the other DAO Members in determining to enter into or perform this Charter or otherwise making any evaluation or determination of the Designated Smart Contracts. The Representing DAO Member understands that the other DAO Members has not made and has not authorized any of its representatives to make, any representation, warranty or other statement intended to be relied upon or to give rise to any claim, obligation or liability based on the accuracy or completeness thereof.
 
 ### VI. Definitions
@@ -103,11 +104,12 @@ Each DAO Member (as the “***Representing DAO Member***”) hereby represents a
 
 (f) “**Designated Blockchain**” means at any given time, the version of the digital blockchain ledger that at least a majority of nodes running the Designated Client on the Designated Blockchain Network recognize as canonical as of such time in accordance with the Consensus Rules.
 
-(g) “**Designated Blockchain Network**” means the Ethereum mainnet (networkID:1, chainID:1), as recognized by the Designated Client.
+(g) “**Designated Blockchain Network**” means the Arbitrum mainnet (chainID:42161), as recognized by the Designated Client.
 
 (h) “**Designated Client**” means the Official Go Ethereum client available at https://github.com/ethereum/go-ethereum.
 
-(i) “**Designated Smart Contract**” means the smart contracts, inclusive of any proxies, which comprise the executive, governance, and other operational functions of Justice DAO on the Designated Blockchain, including but not limited to Designated Blockchain contract address(es): *0xafd091b2d30c6ea6c1f1e0462672a5a26bf6e3c6, 0x602ff13221297041145e3b53db4b10abadf2fc02, 0x86ceba96260fd5e08afc0c1a21bb962bbc9af818, 0xe24745e9090a178946b47c55194d77fa72746165*, and those certain contract addresses identified by Justice DAO as being a “Designated Smart Contract” from time to time.
+(i) “**Designated Smart Contract**” means the smart contracts, inclusive of any proxies, which comprise the executive, governance, and other operational functions of Nani DAO on the Designated Blockchain, including but not limited to Designated Blockchain contract address(es): *0xDa000000000000d2885F108500803dfBAaB2f2aA*, and those certain contract addresses identified by Nani DAO as being a “Designated Smart Contract” from time to time.
+
 (j) “**Distributed DAO Property**” means any Token, asset, right, token, or property that was once DAO Property and has been distributed to a DAO Member.
 
 (k) “**Legal Order**” means any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy.
@@ -126,13 +128,13 @@ Each DAO Member (as the “***Representing DAO Member***”) hereby represents a
 
 (iii) any unauthorized use of an administrative function or privilege of a Designated Smart Contract or Voting Application, including: (A) any use of any administrative credential, key, password, account or address by a Person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address or (B) any unauthorized use of an administrative function or privilege by a DAO Member or a representative of a DAO Member; or
 
-(v) a Designated Smart Contract, the Voting Application, any of the DAO Members or the DAO Property is subject to a Legal Order that prohibits such Designated Smart Contract (or that, if the Designated Smart Contract were a Person, would prohibit the Designated Smart Contract) from executing any function or operation it would otherwise reasonably be expected to execute.
+(iv) a Designated Smart Contract, the Voting Application, any of the DAO Members or the DAO Property is subject to a Legal Order that prohibits such Designated Smart Contract (or that, if the Designated Smart Contract were a Person, would prohibit the Designated Smart Contract) from executing any function or operation it would otherwise reasonably be expected to execute.
 
 (p) “**Person**” means any human, robot, bot, artificial intelligence, corporation, partnership, association or other individual or entity recognized as having the status of a person under the law.
 
 (q) “**Token**” means a digital unit recognized by the Designated Client on the Designated Blockchain Network as capable of being uniquely associated with or “owned” by a particular public-key address on the Designated Blockchain Network at each particular block height.
 
-(r) “**Voting Application**” means the DAO’s voting application accessible at *https://admin.daohaus.club/#/molochv3/0x1/0xafd091b2d30c6ea6c1f1e0462672a5a26bf6e3c6*, which is intended to be usable only by DAO Members as evidenced by an externally owned account address with a positive nonzero balance of DAO Membership Token’s.
+(r) “**Voting Application**” means the DAO’s voting application accessible at *nani.ooo* and any relevant subdomains, which is intended to be usable only by DAO Members as evidenced by an externally owned account address with a positive nonzero balance of DAO Membership Token’s.
 
 ### VI. Indemnification and other Fiscal Matters
 
@@ -146,7 +148,7 @@ Each DAO Member (as the “***Representing DAO Member***”) hereby represents a
 
 (a) *Amendments.* Any provision of this Charter may be amended, waived or modified only upon a majority vote in favor of such amendment, waiver or modification by the DAO Members through the applicable Designated Smart Contract(s) or the Voting Application, as applicable according to the content of such amendment, waiver or modification.
 
-(b) *Severability.* In the event any one or more of the provisions of this Charter is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Charter operate or would prospectively operate to invalidate this Charter, then and in any such event, such provisions) only will be deemed null and void and will not affect any other provision of this Charter and the remaining provisions of this Charter will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
+(b) *Severability.* In the event any one or more of the provisions of this Charter is for any reason held to be invalid, illegal or unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Charter operate or would prospectively operate to invalidate this Charter, then and in any such event, such provisions only will be deemed null and void and will not affect any other provision of this Charter and the remaining provisions of this Charter will remain operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
 
 (c) *Construction.* This Charter constitutes the entire agreement among the DAO Members with respect to the subject matter hereof and supersedes all prior agreements and understandings, both written and oral, among the DAO Members with respect to the subject matter hereof. Except as to matters reserved to DAO Members by law or by this Charter, all DAO powers shall be exercised by or under the authority of DAO Members or such agents or designees approved by DAO Members through Designated Smart Contract voting or the Voting Application or other applicable governance process enabled by the Designated Smart Contracts, Voting Application or DAO Membership Token’s, as applicable.
 
@@ -155,4 +157,3 @@ Each DAO Member (as the “***Representing DAO Member***”) hereby represents a
 (e) *Governing Law.* All rights and obligations hereunder will be governed by the laws of the State of Wyoming, without regard to the conflicts of law provisions thereof.
 
 (f) *Communication by Electronic Means.* Unless otherwise required by law or by agreement, any notice, vote, consent, petition, or other oral or written communication required or permitted can be delivered by electronic means, provided that, in the case where such communication expressly or impliedly requires the signature of the person submitting the communication, means are in place to reasonably assure the authenticity of the signature.
-
