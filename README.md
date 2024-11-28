@@ -9,19 +9,19 @@ pie title NANI Distribution
     "Community" : 66.66
     "Contributor" : 33.33
 ```
->In Community category, 33.33% is reserved for DAO. 0.01%, otherwise, for autonomous agent account ([agent.nani.eth](https://etherscan.io/address/0x466d3E0E6D661d6E7626e9dea93c460BD4e15B40))
+>In Community category, 33.33% is reserved for DAO. 0.01% (or equivalent remainder), otherwise, for autonomous agent account ([agent.nani.eth](https://etherscan.io/address/0x466d3E0E6D661d6E7626e9dea93c460BD4e15B40))
 
 ## Community
 
 [Beta testers](https://nani.ooo/) are eligible to receive daily points convertible to tokens on mainnet. This distribution, designed to highlight the vital role of testers and early adopters in co-creating experimental software, begins 11/1 and shall continue into next year, 1/11.
 
-All initial points conversions shall occur through the [Points contract](https://etherscan.io/address/0x00000000007f7396897bf90b00e96eae4b71d055#code) on mainnet.
+All initial points conversions shall occur through the [Points contract](https://etherscan.io/address/0xbEdfc889D4E2666f6C304df597b81122C3548968#code) on mainnet. Updated distributor contracts will be announced in the community Discord.
 
-The Contributor admin account ([recovery.nani.eth](https://etherscan.io/address/0x0000000000001d8a2e7bf6bc369525A2654aa298)) will initially manage the Points contract balance until 33.33% of the NANI supply is claimed or otherwise distributed for Community purposes in accordance with the DUNA goal of incentivizing high quality contributors and long-term alignment. Specifically, the Community distributions (or, seasons for simplicity) will be on a first-come-first-serve basis until this allocated supply is exhausted, or until 1/11, at which point any remainder will be recovered into the DAO contract (in addition to the 33.33% reserved for DAO).
+The Contributor admin account ([recovery.nani.eth](https://etherscan.io/address/0x0000000000001d8a2e7bf6bc369525A2654aa298)) will initially manage the Points contract balance until 33.33% of the NANI supply is claimed or otherwise distributed for Community purposes in accordance with the DUNA goal of incentivizing high quality contributors and long-term alignment. Specifically, the Community distributions will be on a first-come-first-serve basis until this allocated supply is exhausted, or until 1/11, at which point any remainder will be recovered into the DAO contract (in addition to the 33.33% reserved for DAO).
 
 NO GUARANTEES ARE MADE AS TO THE FITNESS OF THIS DISTRIBUTION SOFTWARE. USERS SHOULD PROCEED AT THEIR OWN RISK.
 
-IN addition, the following categories of accounts are eligible to claim membership via the claim page on [nani.ooo/claim](https://nani.ooo/claim):
+IN addition, the following categories of accounts are eligible to claim membership via the claim page on [nani.ooo/claim](https://nani.ooo/claim) and review their allocation in this [CSV](https://nani.ooo/snaphot.csv):
 
 ### Direct Distribution
 
@@ -76,13 +76,12 @@ The [nani.eth ENS domain](https://app.ens.domains/nani.eth) is also under DAO go
 
 ## Protocol Utility
 
-Goods such as large open language model access should be experimented with and ideally be curated to fit real user preferences.
-
-To reach consensus on the ideal UX and iterate on settings, such as model alignment, safety guards and fees, xNANI stakers (initially 2000 xNANI) will be able to access the [latest NANI model](https://huggingface.co/NaniDAO) on [nani.ooo](https://nani.ooo/). Other users will be otherwise rate limited.
+Goods such as large open language model access should be experimented with and ideally be curated to fit real user preferences. Staking for access to the latest models and non-rate-limited access will be discussed with the community.
 
 ## Protocol Fees
 
-Participation in DAO activities will be compensated or otherwise rewarded with NEETH, NANI or other protocol fees (e.g., model usage, tx relaying, etc.) in line with the selected DAO legal structure, DUNA (see below).
+Participation in DAO activities will be compensated or otherwise rewarded with NEETH, NANI or other protocol fees (e.g., model usage, tx relaying, etc.) in line with the selected DAO legal structure, *DUNA* (see below).
+
 ## Legal Structure
 
 Nani DAO is a progressive [*DUNA*](https://a16zcrypto.com/posts/article/duna-for-daos/). Adopting the structure detailed in [*SF50*](https://a16zcrypto.com/posts/article/duna-for-daos/), the provisions of the Wyoming Decentralized Unincorporated Nonprofit Association (DUNA) Act, as well as the existing [*UNA Act*](https://law.justia.com/codes/wyoming/2022/title-17/chapter-22/), Nani DAO provides its members with the benefits of greater privacy, limited liability protection, and therefore more autonomy over making collective decisions for the DAO by limiting the prospect of unexpected legal interference.
